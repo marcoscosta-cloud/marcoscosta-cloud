@@ -26,6 +26,7 @@ Desenvolvimento Backend em Java com programação Orientada a Objetos com uso da
   <img align="center" alt="Marcos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Marcos-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="right" alt="Marcos-Yoda" height="150" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-baby-yoda-1.gif">
+  <img align="right" alt="Marcos-Optimus" height="150" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1498.gif">
 </div>
   
   ##
